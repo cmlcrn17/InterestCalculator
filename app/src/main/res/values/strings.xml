@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Interest Calculator</string>
+    <string name="dialog_msg_waiting">Waiting</string>
 </resources>
